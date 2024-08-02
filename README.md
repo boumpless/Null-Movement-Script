@@ -1,3 +1,8 @@
+credit to 
+Qiasfah original file
+awful-falafel optimisation
+
+
 English
 I didn't make the script, only changed the keys. Have fun not paying Razer or Wooting to stay competitive.
 
